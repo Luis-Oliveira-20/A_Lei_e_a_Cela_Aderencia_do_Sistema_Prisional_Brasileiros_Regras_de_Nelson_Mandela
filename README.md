@@ -1,6 +1,7 @@
 
 
 Resumo
+
 O sistema prisional brasileiro cumpre as recomendações das Regras de Nelson Mandela? Essas regras são recomendações orientadas pelo conjunto de direitos
 humanos e recomendadas pelo Alto Comissariado das Nações Unidas para os Direitos Humanos (ACNUDH). Nosso objetivo geral é aferi o nível com que as unidades
 prisionais atendem a esses princípios das Regras de Nelson Mandela. Nossa unidade de análise sãos os presídios brasileiros, com um recorte temporal de 2016 
